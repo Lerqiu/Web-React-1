@@ -1,0 +1,12 @@
+
+.PHEllo{
+  display: inline;
+  margin: 3%;
+}
+
+/* 
+  Pewien problem generuje znacznik 'p'. 
+  Domyślnie wyświetla się jako 'block' (czyli wyświetla się od nowej lini i zajmuje całą długość.
+
+  Jednym z najprostszych sposobów jest zmiana trybu wyświetlenia i dodanie marginesu.
+*/
